@@ -1,2 +1,2 @@
-# Mood-Changer
-A prototype for a mood. It helps you to enlighten your mood and help you with some soft music and quotes
+# VCIA
+A prototype where a voice is recorded and then it can acess the rough location of the person
